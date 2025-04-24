@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for collaboration with **New Agentic Solution**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/shambhavi-verma](www.linkedin.com/in/shambhavi-verma)
+- 👨‍💻 All of my projects are available at [https://github.com/shambhavi-maker/AGENTIC-AI](https://github.com/shambhavi-maker/AGENTIC-AI)
 
 - 📝 I regularly write articles on [Agentic AI Application](Agentic AI Application)
 
